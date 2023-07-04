@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Gabriela Neves.
 - 👩🏽‍🎓 Técnica em Informática para Internet
-- 📚 Analista de Sistemas em formação
+- 👩🏽‍🎓 Analista de Sistemas
 - 🔭 Hoje eu trabalho com Testes automatizados
 - 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
