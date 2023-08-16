@@ -2,7 +2,7 @@
 - 👩🏽‍🎓 Técnica em Informática para Internet
 - 👩🏽‍🎓 Analista de Sistemas
 - 🔭 Hoje eu trabalho com Testes automatizados
-- 🌱 Estudando Java
+- 🌱 Estudando JavaScript
 - 😄 Pronouns: ela/dela
   
 <br>
