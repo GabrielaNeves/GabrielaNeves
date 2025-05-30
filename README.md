@@ -12,6 +12,7 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
   <img height="30" width="40" src="https://www.svgrepo.com/show/374049/robotframework.svg">
+  <img height="30" width="40" src="https://www.svgrepo.com/show/353413/appium.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
